@@ -1,2 +1,2 @@
-# subtitlebar-bot-discord
-subtitlebar-bot for discord
+# nicodisplay-bot-discord
+nicodisplay-bot for discord
